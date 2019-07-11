@@ -21,7 +21,7 @@ npm run dev
 - lib-flexible - vue移动端适配插件lib-flexible
 
 ## Author
-- Email - admin@shaozeci.com
+- Email - shaozecai@shaozecai.com
 - Web site - https://shaozecai.com
 
 ## Version
